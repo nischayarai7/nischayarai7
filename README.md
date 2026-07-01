@@ -18,10 +18,19 @@ I am a Full Stack Developer with a strong foundation in building scalable web an
 
 ### Recent Projects
 
-- <img src="INSERT_IMAGE_URL_HERE" width="30" height="30" align="center" /> **[Aura Music Discord Bot](https://www.auramusic.tech/)**
-- **[Sorascore](https://sorascore.com/)**
+| | Project | Link |
+|---|---|---|
+| <img src="<img width="308" height="292" alt="aura_music-removebg-preview" src="https://github.com/user-attachments/assets/82da137d-8ac9-4fcc-88e4-88fa24bf0308" />
+" width="40" height="40" /> | **Aura Music Discord Bot** | [auramusic.tech](https://www.auramusic.tech/) |
+
+| <img src="<img width="500" height="500" alt="sora_logo-removebg-preview" src="https://github.com/user-attachments/assets/92589e2b-6285-4232-a209-ac8bf9753958" />
+" width="40" height="40" /> | **Sorascore** | [sorascore.com](https://sorascore.com/) |
 
 ---
+
+## <img src="https://img.shields.io/badge/-Tech_Stack_%26_Tools-2ECC71?style=flat-square" height="28" alt="Tech Stack and Tools" />
+
+<div align="center">
 
 ### Tech Stack & Tools
 
