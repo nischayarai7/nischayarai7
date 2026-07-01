@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Nischaya+👋" alt="Typing SVG" />
+  </a>
+</div>
 
-<!--
-**nischayarai7/nischayarai7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="typing animation">
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+I am a Full Stack Developer with a strong foundation in building scalable web and mobile applications. Currently pursuing my studies, I am deeply passionate about translating complex problems into elegant, efficient, and user-centric software solutions. I thrive in environments that challenge me to learn continuously and push the boundaries of my technical expertise. 
+
+---
+
+### Recent Projects
+
+- <img src="C:\Users\nisch\Downloads\aura_music-removebg-preview.png" width="30" height="30" align="center" /> **[Aura Music Discord Bot](https://www.auramusic.tech/)**
+- <img src="C:\Users\nisch\Downloads\sora_logo-removebg-preview.png" /> **[Sorascore](https://sorascore.com/)**
+
+---
+
+### Tech Stack & Tools
+
+<div align="center">
+  
+  <br />
+  
+  <p><b>Core Languages</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cs,dart,html,css&theme=dark" />
+  </a>
+  
+  <br /><br />
+  
+  <p><b>Frontend & Mobile</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark" />
+  </a>
+  
+  <br /><br />
+  
+  <p><b>Backend & Frameworks</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark" />
+  </a>
+  
+  <br /><br />
+
+  <p><b>Databases</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark" />
+  </a>
+  
+  <br /><br />
+  
+  <p><b>Cloud, BaaS & Tools</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,postman,git,github,vscode&theme=dark" />
+  </a>
+  
+  <br />
+</div>
+
+---
+
+### Contact
+
+<div align="center">
+  <a href="mailto:nischayachamlingrai@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me_Via_Email-0D1117?style=for-the-badge&logo=minutemailer&logoColor=58A6FF&labelColor=0D1117&color=0D1117" alt="Contact Email" />
+  </a>
+</div>
