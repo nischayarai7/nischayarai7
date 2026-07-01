@@ -20,9 +20,9 @@ I am a Full Stack Developer with a strong foundation in building scalable web an
 
 | | Project | Link |
 |---|---|---|
-| <img src= "<img width="308" height="292" alt="aura_music-removebg-preview" src="https://github.com/user-attachments/assets/3c9b6148-35a2-40e6-9027-02f36cd8532a" />
+| <img src= " < img width="308" height="292" alt="aura_music-removebg-preview" src="https://github.com/user-attachments/assets/3c9b6148-35a2-40e6-9027-02f36cd8532a" />
 " width="10" height="10" /> | **Aura Music Discord Bot** | [auramusic.tech](https://www.auramusic.tech/) |
-| <img src= "<img width="32" height="32" alt="favicon-32x32" src="https://github.com/user-attachments/assets/e2313bfc-b40c-4bdc-9e6b-a23b33c6a003" />
+| <img src= " < img width="32" height="32" alt="favicon-32x32" src="https://github.com/user-attachments/assets/e2313bfc-b40c-4bdc-9e6b-a23b33c6a003" />
 " width="40" height="40" /> | **Sorascore** | [sorascore.com](https://sorascore.com/) |
 
 
