@@ -19,7 +19,7 @@ I am a Full Stack Developer with a strong foundation in building scalable web an
 ### Recent Projects
 
 | | Project | Link |
-|---|---|
+|---|---||
  **Aura Music Discord Bot** | [auramusic.tech](https://www.auramusic.tech/) |
 **Sorascore** | [sorascore.com](https://sorascore.com/) |
 
