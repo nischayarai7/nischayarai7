@@ -1,5 +1,6 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Nischaya+👋)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there,+I'm+Nischaya+👋" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,8 +18,8 @@ I am a Full Stack Developer with a strong foundation in building scalable web an
 
 ### Recent Projects
 
-- <img src="C:\Users\nisch\Downloads\aura_music-removebg-preview.png" width="30" height="30" align="center" /> **[Aura Music Discord Bot](https://www.auramusic.tech/)**
-- <img src="C:\Users\nisch\Downloads\sora_logo-removebg-preview.png" /> **[Sorascore](https://sorascore.com/)**
+- <img src="INSERT_IMAGE_URL_HERE" width="30" height="30" align="center" /> **[Aura Music Discord Bot](https://www.auramusic.tech/)**
+- **[Sorascore](https://sorascore.com/)**
 
 ---
 
